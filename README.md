@@ -27,7 +27,9 @@ This part introduces the basics of Java programming. The goal is to become famil
 Each Java file in this folder is a small independent exercise.  
 The files are named according to the task (e.g., `EvenOrOdd.java`, `LeapYear.java`).
 
-✅ **Goal:** Build a strong foundation in writing and understanding simple Java programs before moving on to loops, methods, and more complex logic.
+## ✅ Goal
+Build a strong foundation in writing and understanding simple Java programs before moving on to loops, methods, and more complex logic.
+
 ---
 ## Part 02 – Methods, Loops, and Modular Programming
 This part dives deeper into Java programming by introducing methods, loops, and parameterized programming. You’ll learn how to organize code into reusable units and use iteration for repeated actions.
