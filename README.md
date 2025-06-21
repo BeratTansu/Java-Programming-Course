@@ -33,6 +33,13 @@ The files are named according to the task (e.g., `EvenOrOdd.java`, `LeapYear.jav
 
 
 
+
+
+
+
+
+
+
 ## Part 02 – Methods, Loops, and Modular Programming
 This part dives deeper into Java programming by introducing methods, loops, and parameterized programming. You’ll learn how to organize code into reusable units and use iteration for repeated actions.
 
