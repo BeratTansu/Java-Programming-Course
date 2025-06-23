@@ -88,3 +88,80 @@ Filenames reflect the content: e.g., Greatest.java, PrintTriangle.java, Divisibl
 
 ## ✅ Goal
 To strengthen your understanding of methods and loops, and to encourage modular code design. By the end of Part 2, you should be comfortable writing programs with reusable methods, input/output, and structured logic using loops.
+
+---
+Part 03 – Lists and Arrays
+This part introduces collections of data in Java — specifically ArrayList and arrays. You'll learn to store multiple values, access and manipulate them, and write logic based on the contents of these structures.
+
+💡 Topics Covered
+Creating and using ArrayLists
+
+Adding elements to a list with .add()
+
+Getting values with .get(index)
+
+Finding the size of a list with .size()
+
+Using for and for-each loops to iterate over lists
+
+Reading values from the user and storing them in a list
+
+Using arrays (int[], String[]) and fixed-size structures
+
+Finding the greatest/smallest number in a list or array
+
+Working with indices: searching, swapping, and accessing
+
+Printing elements based on range, pattern, or condition
+
+🧪 Example Exercises
+Add strings to a list and print the 3rd or last element
+
+Sum or average numbers from a list
+
+Print only the numbers in a specific index range
+
+Search for a number or string and return its index
+
+Remove the last element from a list
+
+Swap elements in an array using indices
+
+Print stars based on values in an array (visual patterns)
+
+Format array output with commas and no trailing symbols
+
+Find the index/indices of the smallest number in a list
+
+🔁 Emphasis on List/Array Operations
+This part builds fluency in working with multiple values:
+
+Dynamically adding and accessing elements
+
+Understanding index-based data structures
+
+Searching and filtering values
+
+Developing logic that handles user input of unknown size
+
+Writing methods that process list or array parameters
+
+📁 Structure
+Each .java file represents an exercise focused on one key operation.
+
+Files are organized by theme (e.g., SumOfList.java, IndexOfNumber.java, PrintStars.java)
+
+Folder names may reflect logical groupings (e.g., Part3_1/, Part3_2/)
+
+Each class has a descriptive name related to its task
+
+✅ Goal
+To gain confidence in using lists and arrays for storing and processing data. After this part, you’ll be comfortable:
+
+Working with dynamic and fixed-size data collections
+
+Implementing search, sum, average, and filter logic
+
+Building small programs using list/array operations
+
+You are now ready to explore object-oriented programming and build larger Java applications.
