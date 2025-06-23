@@ -31,7 +31,7 @@ The files are named according to the task (e.g., `EvenOrOdd.java`, `LeapYear.jav
 Build a strong foundation in writing and understanding simple Java programs before moving on to loops, methods, and more complex logic.
 
 ---
-## Part 02 – Methods, Loops, and Modular Programming
+# Part 02 – Methods, Loops, and Modular Programming
 This part dives deeper into Java programming by introducing methods, loops, and parameterized programming. You’ll learn how to organize code into reusable units and use iteration for repeated actions.
 
 ## 💡 Topics Covered
@@ -90,7 +90,7 @@ Filenames reflect the content: e.g., Greatest.java, PrintTriangle.java, Divisibl
 To strengthen your understanding of methods and loops, and to encourage modular code design. By the end of Part 2, you should be comfortable writing programs with reusable methods, input/output, and structured logic using loops.
 
 ---
-## Part 03 – Lists and Arrays
+# Part 03 – Lists and Arrays
 This part introduces collections of data in Java — specifically ArrayList and arrays. You'll learn to store multiple values, access and manipulate them, and write logic based on the contents of these structures.
 
 ## 💡 Topics Covered
