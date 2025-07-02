@@ -165,3 +165,108 @@ Implementing search, sum, average, and filter logic
 Building small programs using list/array operations
 
 You are now ready to explore object-oriented programming and build larger Java applications.
+
+---
+# Part 04 – Object-Oriented Programming
+This part introduces Object-Oriented Programming (OOP) in Java. You'll learn how to define your own classes, create objects from those classes, and organize logic using methods and instance variables.
+
+## 💡 Topics Covered
+
+Writing custom classes with class keyword
+
+Defining constructors and initializing object state
+
+Creating and using instance variables
+
+Implementing methods inside classes
+
+Access modifiers: private vs. public
+
+Calling object methods using dot notation
+
+Understanding toString() and how it replaces print()
+
+Object lists: ArrayList<Object> and class collections
+
+File reading with Scanner and Paths.get()
+
+Using multiple classes and real-world modeling
+
+## 🧪 Example Exercises
+
+Create a Product class and print product info with toString()
+
+Build a Gauge that increases/decreases only within a range
+
+Implement a DecreasingCounter that stops at zero
+
+Create a Debt class that grows with interest each year
+
+Model a Film with age restrictions and compare to user age
+
+Build a PaymentCard class with balance, restrictions, and transactions
+
+Manage a list of Items that store creation timestamp
+
+Use Scanner to read and process input from a file
+
+Implement a guest list application that reads names from a file
+
+## 🔁 Emphasis on Object Behavior
+This part teaches how to encapsulate data and behavior:
+
+Objects remember their internal state
+
+Methods modify or expose object state
+
+You can create many objects with the same class blueprint
+
+OOP helps organize complex logic into reusable, modular parts
+
+## 📁 Structure
+
+Each Java file represents a class (e.g., Book.java, Debt.java)
+
+Main programs create objects and call their methods
+
+Files may be grouped by packages (e.g., Part4_2/, Part4_3/)
+
+Common naming convention: ClassName.java + MainProgram.java
+
+## 📅 Real-World Modeling
+Many exercises simulate real-world items:
+
+Book with title, pages, and year
+
+Song with duration
+
+TelevisionProgram with name and runtime
+
+Item with creation timestamp
+
+PersonalInformation with name and ID
+
+## 📄 File Handling
+You will also begin reading external .txt files:
+
+Use Paths.get("filename") inside a try-with-resources block
+
+Read lines using Scanner
+
+Handle IOException gracefully
+
+Process user-selected files dynamically
+
+## ✅ Goal
+By the end of Part 4, you will be able to:
+
+Design and implement Java classes with encapsulated behavior
+
+Build programs that use multiple objects together
+
+Read from files and create interactive programs
+
+Apply OOP to organize and scale your Java applications
+
+This foundation prepares you for building full applications, managing more complex data, and leveraging Java's full object-oriented power.
+
